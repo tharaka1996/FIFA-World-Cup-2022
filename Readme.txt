@@ -1,3 +1,5 @@
+Owner : Tharaka Sandun
+
 Attached below is a dataset which includes more than 40,000 observations of international
 football matches that have taken place between 1872-2020.
 Link to data set:
